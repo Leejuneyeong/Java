@@ -45,10 +45,10 @@ public class Ex_04 {
 
 		for (int a = 5; a >= 0; a--) {
 			for (int b = 1; b <= 5 - a; b++) {
-				System.out.print(" "); // °ø¹é ±×·ÁÁÖ±â
+				System.out.print(" "); // ê³µë°± ê·¸ë ¤ì£¼ê¸°
 			}
 			for (int k = 1; k <= a; k++) {
-				System.out.print("*"); // ½ÇÁ¦ º°Âï±â
+				System.out.print("*"); // ì‹¤ì œ ë³„ì°ê¸°
 			}
 			System.out.println();
 		}
