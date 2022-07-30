@@ -5,7 +5,7 @@ public class Ex_07 {
 		
 	/*	int a = 5;
 		
-		a=a+6; // º¹ÇÕ´ëÀÔ ¿¬»êÀÚ
+		a=a+6; // ë³µí•©ëŒ€ì… ì—°ì‚°ì
 		a+=6;
 			
 		System.out.println(a);
@@ -13,9 +13,10 @@ public class Ex_07 {
 		int i = 3;
 		int j = 10;
 		
-		String result = i == j ? "°°´Ù" : "´Ù¸£´Ù";
+		String result = i == j ? "ê°™ë‹¤" : "ë‹¤ë¥´ë‹¤";
 		
-		// Á¶°Ç½Ä ? °á°ú¹® : °á°ú¹®2 
+		
+		// ì‚¼í•­ì—°ì‚°ì :  ì¡°ê±´ì‹ ? ê²°ê³¼ë¬¸ : ê²°ê³¼ë¬¸2 
 		
 		System.out.println(result);
 	}
